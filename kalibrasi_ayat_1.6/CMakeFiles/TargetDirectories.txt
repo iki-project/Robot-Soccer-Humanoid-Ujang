@@ -1,0 +1,3 @@
+/home/odroid/kalibrasi_ayat_1.6/CMakeFiles/rebuild_cache.dir
+/home/odroid/kalibrasi_ayat_1.6/CMakeFiles/edit_cache.dir
+/home/odroid/kalibrasi_ayat_1.6/CMakeFiles/kalibrasi.dir
